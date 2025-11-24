@@ -12,3 +12,4 @@ class AttendancePolicy:
         if not isinstance(hasReachedMinimumClasses, bool):
             raise ValueError("hasReachedMinimumClasses debe ser un valor booleano")
         return 0.0 if hasReachedMinimumClasses else self.penalty_points
+
