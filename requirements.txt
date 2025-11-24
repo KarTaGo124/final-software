@@ -1,0 +1,10 @@
+# Dependencias del proyecto CS-GradeCalculator
+# Python 3.8 o superior requerido
+
+# No se requieren dependencias externas para la funcionalidad básica
+# Los tests utilizan unittest (incluido en Python standard library)
+
+# Herramientas opcionales para análisis de código:
+# pylint>=2.15.0
+# flake8>=5.0.0
+# coverage>=6.5.0
